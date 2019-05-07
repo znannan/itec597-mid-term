@@ -67,7 +67,7 @@
 
 
 ### 第三题：圣殿骑士的取款机(7分)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tomar-Convento_de_Cristo-Rotunda_dos_Templ%C3%A1rios-20140914.jpg/640px-Tomar-Convento_de_Cristo-Rotunda_dos_Templ%C3%A1rios-20140914.jpg)
+![](src/main/resources/templar-hq.jpg)
 * 难易程度：中等
 * 背景说明：为保护朝圣信徒而出现的[圣殿骑士团](https://en.wikipedia.org/wiki/Knights_Templar)，极有创意地发明了银行系统。他们允许旅客在出发前将钱币、财物
 储存在某地，到达圣地之后即可在指定地点提取，这一定程度缓解了旅客因为随身携带过多财物而被抢劫甚至
