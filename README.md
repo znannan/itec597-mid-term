@@ -66,7 +66,7 @@
 
 
 ### 第三题：圣殿骑士的取款机(7分)
-![](src/main/resources/templar-hq.jfif)
+![](src/main/resources/templar-castle.jfif)
 * 难易程度：中等
 * 背景说明：为保护朝圣信徒而出现的[圣殿骑士团](https://en.wikipedia.org/wiki/Knights_Templar)，极有创意地发明了银行系统。他们允许旅客在出发前将钱币、财物储存在某地，到达圣地之后即可在指定地点提取，这一定程度缓解了旅客因为随身携带过多财物而被抢劫甚至杀害的概率。与此同时，各地的货币系统可能存在差异，导致旅客在不同地域所能兑换、提取的钱币形式都不相同。现在，有一位历经千辛万苦到达耶路撒冷的信徒，正要前往圣殿骑士团的据点取回自己存储的钱币。
 * 编程要求: [KnightsTemplarBank.java](src/main/java/KnightsTemplarBank.java)，实现
