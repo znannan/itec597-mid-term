@@ -120,6 +120,6 @@
 * 编程要求：[MissionTrip.java](src/main/java/MissionTrip.java)
   实现`public int resolve(int[][] paths)`方法，找到使徒保罗从起点`[0, 0]`开始，走到终点的所有路径总数。以二维数组模拟的地图中，使徒可以沿着上下左右四个方向前进，需要避开敌对犹太群体(`paths[i][j] = 1`)的同时，不能重复经过已经走过的地点，示意图中绘制了若干可能路线。
 ![](src/main/resources/mission-trip.png)
-* 参数范围：1 < `paths.length` <= 100, 1 < `paths[0].length` <= 100
+* 参数范围：1 < `paths.length` <= 5, 1 < `paths[0].length` <= 5
 * 程序运行时间不得超过2秒，如您确信是因为电脑相对老旧导致运行时间无法达标，请及时联系我进行确认
 
